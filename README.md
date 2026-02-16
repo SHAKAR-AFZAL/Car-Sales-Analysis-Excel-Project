@@ -105,8 +105,6 @@ The Car Dataset is stored in Excel format and includes the following attributes:
 
 ### Aspiration Analysis
 - Standard aspiration vehicles outnumber turbo vehicles.  
-- Turbocharged cars represent a smaller yet performance-oriented segment.
-
 ---
 
 ## Dashboard 
@@ -160,7 +158,6 @@ Businesses and analysts can use these insights to:
 - Support automotive strategy and forecasting decisions  
 
 ---
-
 ## Role & Contribution
 - Data Cleaning & Preparation  
 - Pivot Table and Chart Creation  
