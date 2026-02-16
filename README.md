@@ -154,8 +154,7 @@ The automobile dataset reveals that gas-powered, front-wheel-drive sedans with f
 Businesses and analysts can use these insights to:
 - Understand dominant vehicle configurations  
 - Identify niche performance segments  
-- Analyze market preferences by vehicle type  
-- Support automotive strategy and forecasting decisions  
+- Analyze market preferences by vehicle type   
 
 ---
 ## Role & Contribution
