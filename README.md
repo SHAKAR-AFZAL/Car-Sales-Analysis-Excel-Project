@@ -147,6 +147,34 @@ Toyota dominates the dataset not just in quantity but also by aligning with the 
 
 ---
 
+<h2>Mercury Low Sales Insight (Brand Performance Analysis)</h2>
+
+<b>Key Reason:</b><br>
+Mercury has the lowest vehicle count because it <b>does not align well with the most demanded market configurations</b> observed in the dataset.
+<br><br>
+
+<b>Main Factors Affecting Low Sales</b>
+<ul>
+  <li>Low presence in <b>Sedan</b> and <b>Hatchback</b> body styles (highest-demand categories)</li>
+  <li>Fewer <b>Front-Wheel Drive (FWD)</b> and <b>gas-efficient</b> models</li>
+  <li><b>Limited model variety</b> compared to competitors</li>
+  <li><b>Weaker brand visibility</b> and resale perception</li>
+  <li>Strong competition from brands offering better <b>price-to-value</b> and reliability</li>
+</ul>
+
+<b>Business Improvement Suggestions</b>
+<ul>
+  <li>Increase models in <b>Sedan</b> and <b>Hatchback</b> segments</li>
+  <li>Focus on <b>fuel-efficient</b> and <b>FWD</b> configurations</li>
+  <li>Expand <b>product variety</b> and trim options</li>
+  <li>Strengthen <b>marketing, service network,</b> and <b>resale value perception</b></li>
+</ul>
+
+<b>Conclusion:</b><br>
+Mercury’s low sales stem from weak alignment with mainstream vehicle preferences and limited product diversity, indicating a need for configuration optimization and stronger market positioning.
+
+
+<img width="1612" height="792" alt="MERCURY SALES ANALYSIS" src="https://github.com/user-attachments/assets/5ecb7833-51cf-4c43-bc33-b009002473ee" />
 
 ## Conclusion
 The automobile dataset reveals that gas-powered, front-wheel-drive sedans with front-mounted OHC engines dominate the market. Turbocharged and rear-engine vehicles form a smaller performance-focused segment. These insights help in understanding manufacturing trends, consumer preferences, and vehicle specification patterns.
