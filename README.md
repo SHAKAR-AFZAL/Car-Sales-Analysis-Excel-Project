@@ -189,7 +189,8 @@ Businesses and analysts can use these insights to:
 - Data Analysis
 - Data Preparation 
 - Data Cleaning  
-- Pivot Table and Chart Creation  
+- Pivot Table
+- Chart Creation  
 - Interactive Dashboard Design  
 - Data Visualization & Insight Generation  
 - Data-Driven Insights for business growth
