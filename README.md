@@ -70,7 +70,7 @@ The Car Dataset is stored in Excel format and includes the following attributes:
 **Key Visuals**
 - Distribution by Fuel Type  
 - Count of Drive Wheels  
-- Count of Body Style  
+- Count of Body Styles  
 - Distribution by Engine Type  
 - Distribution by Engine Location  
 - Distribution by Fuel System  
