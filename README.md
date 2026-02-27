@@ -90,7 +90,7 @@ The Car Dataset is stored in Excel format and includes the following attributes:
 - 4-Wheel Drive (4WD) vehicles are the least common, typically linked to off-road or utility vehicles.
 
 ### Body Style Distribution
-- **Sedans** and **Hatchbacks** represent the majority of vehicles.  
+- **Sedans** and **Hatchbacks** represents the majority of vehicles.  
 - Convertibles and Hardtops appear less frequently, indicating niche market segments.
 
 ### Engine Location Patterns
