@@ -1,6 +1,6 @@
 # 🚗 Car Data Analysis Dashboard – Excel Project
 
-_Analyzing automobile data to identify patterns in vehicle specifications and market trends to support data-driven business decisions using Microsoft Excel._
+_Analyzing automobile data to identify patterns in vehicle specifications and market trends to support the data-driven business decisions using Microsoft Excel._
 
 ---
 
