@@ -24,7 +24,7 @@ This project focuses on analyzing automobile data to understand vehicle characte
 ---
 
 ## Project Objective
-The primary goals of this project are:
+The primary goals of this project are
 - Analyze the distribution of fuel types and fuel systems  
 - Identify the most common vehicle body styles and drive wheels  
 - Examine engine types, engine locations, and aspiration trends  
