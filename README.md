@@ -58,7 +58,7 @@ The Car Dataset is stored in Excel format and includes the following attributes:
   - Filters   
   - Data Cleaning
   - Formatting  
-- **GitHub**
+  - GitHub
 
 ---
 
