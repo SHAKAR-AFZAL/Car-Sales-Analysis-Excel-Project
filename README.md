@@ -113,7 +113,7 @@ The Car Dataset is stored in Excel format and includes the following attributes:
 <a href="https://github.com/SHAKAR-AFZAL/Car-Sales-Analysis-Excel-Project/blob/main/PHOTO%20OF%20DASHBOARD.png">📊 Dashboard Picture</a>
 
 The Excel dashboard displays:
-- Vehicle fuel distribution  
+- Vehicle fuel distributions  
 - Body style and drive wheel comparison  
 - Engine and fuel system analysis  
 - Brand-wise vehicle filtering  
