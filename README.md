@@ -1,4 +1,4 @@
-# 🚗 Car Sales Data Analysis  
+#  Car Sales Data Analysis  
 
 _Analyzing automobile data to identify the patterns in vehicle specifications and market trends to support data driven business decisions using Microsoft Excel._
 
