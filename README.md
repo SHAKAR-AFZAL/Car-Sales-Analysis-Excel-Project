@@ -179,7 +179,7 @@ Mercury’s low sales stem from weak alignment with mainstream vehicle preferenc
 <img width="1612" height="792" alt="MERCURY SALES ANALYSIS" src="https://github.com/user-attachments/assets/5ecb7833-51cf-4c43-bc33-b009002473ee" />
 
 ## Conclusion
-The automobile dataset reveals that gas-powered, front-wheel-drive sedans with front-mounted OHC engines dominate the market. Turbocharged and rear-engine vehicles form a smaller performance-focused segment. These insights help in understanding manufacturing trends, consumer preferences, and vehicle specification patterns.
+The automobile dataset reveals that gas powered, front-wheel-drive sedans with front-mounted OHC engines dominate the market. Turbocharged and rear-engine vehicles form a smaller performance-focused segment. These insights help in understanding manufacturing trends, consumer preferences, and vehicle specification patterns.
 
 Businesses and analysts can use these insights to:
 - Understand dominant vehicle configurations  
