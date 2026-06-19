@@ -143,7 +143,7 @@ It also indicates Toyota focuses on <b>mass-market segments</b> rather than nich
 Toyota dominates the dataset not just in quantity but also by aligning with the most demanded vehicle specifications. This trend reflects a <b>consumer preference for practical, economical, and reliable vehicles</b>, which Toyota effectively delivers.
 
 <b>Summary</b><br>
-<b>Toyota emerged as the leading brand in vehicle count</b>, indicating higher market penetration driven by <b>fuel-efficient, front-wheel-drive sedans and hatchbacks</b> that align with mainstream consumer preferences.
+<b>Toyota emerged as the leading brand in the vehicle count</b>, indicating higher market penetration driven by <b>fuel-efficient, front-wheel-drive sedans and hatchbacks</b> that align with mainstream consumer preferences.
 
 <img width="1498" height="719" alt="TOYOTA ANALYSIS" src="https://github.com/user-attachments/assets/b20c469f-72c4-43b4-9013-d46a9b4bf435" />
 
