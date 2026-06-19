@@ -35,7 +35,7 @@ The primary goals of this project are
 ## Dataset 
 🗂️ <a href="https://github.com/SHAKAR-AFZAL/Car-Sales-Analysis-Excel-Project/blob/main/Automobile_Dataset.xlsx">Dataset View</a>
 
-The Car Dataset is stored in Excel format and includes the following attributes:
+The Car Dataset is stored in the Excel format and includes the following attributes:
 
  
 - Car Make / Brand  
