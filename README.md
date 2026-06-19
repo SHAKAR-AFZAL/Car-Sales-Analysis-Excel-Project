@@ -157,7 +157,7 @@ Mercury has the lowest vehicle count because it <b>does not align well with the 
 
 <b>Main Factors Affecting Low Sales</b>
 <ul>
-  <li>Low presence in <b>Sedan</b> and <b>Hatchback</b> body styles (highest-demand categories)</li>
+  <li>Low presence in the <b>Sedan</b> and <b>Hatchback</b> body styles (highest-demand categories)</li>
   <li>Fewer <b>Front-Wheel Drive (FWD)</b> and <b>gas-efficient</b> models</li>
   <li><b>Limited model variety</b> compared to competitors</li>
   <li><b>Weaker brand visibility</b> and resale perception</li>
