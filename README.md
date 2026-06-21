@@ -81,7 +81,7 @@ The Car Dataset is stored in the Excel format and includes the following attribu
 ## Key Insights
 
 ### Fuel Type Trends
-- Gas-powered vehicles dominate the dataset compared to diesel vehicles.  
+- Gas powered vehicles dominate the dataset compared to diesel vehicles.  
 - Diesel vehicles represent a smaller but consistent portion of the automobile market.
 
 ### Drive Wheel Analysis
