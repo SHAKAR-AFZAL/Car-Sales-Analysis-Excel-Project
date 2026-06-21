@@ -19,7 +19,7 @@ _Analyzing automobile data to identify the patterns in vehicle specifications an
 ---
 
 ## Overview
-This project focuses on analyzing automobile data to understand vehicle characteristics such as fuel types, engine configurations, drive wheels, and body styles. An interactive Excel dashboard was developed to transform raw automotive data into meaningful visual insights for analytical and business understanding.
+This project focuses on analyzing the automobile data to understand vehicle characteristics such as fuel types, engine configurations, drive wheels, and body styles. An interactive Excel dashboard was developed to transform raw automotive data into meaningful visual insights for analytical and business understanding.
 
 ---
 
