@@ -173,7 +173,7 @@ Mercury has the lowest vehicle count because it <b>does not align well with the 
 </ul>
 
 <b>Conclusion:</b><br>
-Mercury’s low sales stem from weak alignment with mainstream vehicle preferences and limited product diversity, indicating a need for configuration optimization and stronger market positioning.
+Mercury’s low sales stem from weak alignment with the mainstream vehicle preferences and limited product diversity, indicating a need for configuration optimization and stronger market positioning.
 
 
 <img width="1612" height="792" alt="MERCURY SALES ANALYSIS" src="https://github.com/user-attachments/assets/5ecb7833-51cf-4c43-bc33-b009002473ee" />
