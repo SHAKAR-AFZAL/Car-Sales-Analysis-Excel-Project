@@ -28,7 +28,7 @@ The primary goals of this project are
 - Analyze the distribution of fuel types and fuel systems  
 - Identify the most common vehicle body styles and drive wheels  
 - Examine the engine types, engine locations, and aspiration trends  
-- Provide data-driven insights into automobile specifications and market patterns  
+- Provide data driven insights into automobile specifications and market patterns  
 
 ---
 
