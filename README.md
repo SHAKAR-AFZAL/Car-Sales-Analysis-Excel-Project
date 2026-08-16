@@ -41,7 +41,7 @@ The Car Dataset is stored in the Excel format and includes the following attribu
 - Car Make / Brand  
 - Fuel Type (Gas / Diesel)  
 - Body Style (Sedan, Hatchback, Wagon, Convertible, etc.)  
-- Drive Wheels (FWD, RWD, 4WD)  
+- Drive Wheels (FWD,RWD, 4WD)  
 - Engine Type  
 - Engine Location (Front / Rear)  
 - Fuel System  
