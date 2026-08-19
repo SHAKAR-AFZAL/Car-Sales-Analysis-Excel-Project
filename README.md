@@ -98,7 +98,7 @@ The Car Dataset is stored in Excel format and includes the following attributes:
 - Rear engine placement is rare and usually associated with sports or specialty cars.
 
 ### Engine Type Observations
-- OHC (Overhead Cam) engines dominate the dataset, showing industry preference for efficiency and reliability.  
+- OHC (Overhead Cam) engines dominate the dataset, showing the industry preference for efficiency and reliability.  
 - Other engine types appear in significantly smaller proportions.
 
 ### Fuel System Insights
