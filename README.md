@@ -121,7 +121,7 @@ The Excel dashboard displays:
 
 <b>Key Observation</b><br>
 <a name="toyota-sales-insight"></a>Toyota Sales Insight (Brand Performance Analysis)
-<b>Toyota</b> has the highest number of vehicles recorded in the dataset, indicating strong market presence and higher sales volume compared to other brands.
+<b>Toyota</b> has the highest number of vehicles recorded in the dataset, indicating the strong market presence and higher sales volume compared to other brands.
 
 <b>What the Data Suggests</b><br>
 <b>Toyota vehicles</b> appear more frequently across body styles such as <b>Sedan</b> and <b>Hatchback</b>, which are already the most common vehicle categories.
