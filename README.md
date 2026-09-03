@@ -195,7 +195,7 @@ Businesses and analysts can use these insights to:
 - Chart Creation  
 - Interactive Dashboard Design  
 - Data Visualization and Insight Generation  
-- Data-Driven Insights for business growth
+- Data Driven Insights for business growth
 ---
 
 ## Author
